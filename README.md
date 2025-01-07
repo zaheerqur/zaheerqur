@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm Zaheer Quraishi, a passionate developer focused on building impactful solutions. With a strong background in web development and software engineering, I enjoy tackling complex problems and creating efficient, user-friendly applications.
+I'm Zaheer Quraishi, a passionate developer focused on building impactful solutions. I enjoy tackling complex problems and creating efficient, user-friendly applications.
 
 ## My Interests
 - 🌐 Web Development
