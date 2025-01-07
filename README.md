@@ -6,7 +6,6 @@ I'm Zaheer Quraishi, a passionate developer focused on building impactful soluti
 - 🌐 Web Development
 - 💻 Software Engineering
 - 🤖 Artificial Intelligence
-- 📊 Data Analysis
 
 ## Featured Projects
 - **Truly**: An alternative job-hunting platform built with Vue.js as part of the SOEN341 course. [View Repository](https://github.com/KA-devl/Truly)
