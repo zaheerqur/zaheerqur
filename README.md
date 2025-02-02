@@ -3,9 +3,9 @@
 I'm Zaheer Quraishi, a passionate developer focused on building impactful solutions. I enjoy tackling complex problems and creating efficient, user-friendly applications.
 
 ## My Interests
-- 🌐 Web Development
-- 💻 Software Engineering
-- 🤖 Artificial Intelligence
+- Web Development
+- Software Engineering
+- Artificial Intelligence
 
 ## Featured Projects
 - **Condo Connect**: A full-stack condo management application streamlining operations for residents and administrators for SOEN 390. [View Repository](https://github.com/leobrod44/Mini-Capstone) | [Live Application](https://condoconnect.site/)
