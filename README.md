@@ -14,6 +14,3 @@ I am a student in Software Engineering at Concordia University, Montreal, Canada
 
 ## GitHub Stats
 ![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaheerqur&show_icons=true&theme=tokyonight)
-
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/zaheer-quraishi-399390186/)
