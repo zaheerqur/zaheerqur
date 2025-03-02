@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+# Hi, my name is Zaheer Quraishi
 
-I'm Zaheer Quraishi, a passionate developer focused on building impactful solutions. I enjoy tackling complex problems and creating efficient, user-friendly applications.
+I am a student in Software Engineering at Concordia University, Montreal, Canada.
 
 ## My Interests
 - Web Development
