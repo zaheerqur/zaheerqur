@@ -1,6 +1,6 @@
 # Hi, my name is Zaheer Quraishi
 
-I am a student in Software Engineering at Concordia University, Montreal, Canada.
+I am a Software Engineer based in Montreal. Currently building enterprise applications at MHI RJ Aviation.
 
 ## My Interests
 - Web Development
