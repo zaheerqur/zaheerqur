@@ -1,16 +1,28 @@
-# Hi, my name is Zaheer Quraishi
+# Zaheer Quraishi
 
-I am a Software Engineer based in Montreal. Currently building enterprise applications at MHI RJ Aviation.
+Software Engineering grad from Concordia. Currently building production systems at MHI RJ Aviation in C#, .NET, and React, and independently shipping ML projects in Python.
 
-## My Interests
-- Web Development
-- Software Engineering
-- Artificial Intelligence
+---
 
-## Featured Projects
-- **Condo Connect**: A full-stack condo management application streamlining operations for residents and administrators for SOEN 390. [View Repository](https://github.com/leobrod44/Mini-Capstone)
-- **Emotion Recognition**: A facial recognition project using convolutional neural networks for COMP 472. [View Repository](https://github.com/MaxScales/COMP472_Ai_Project_OB_20)
-- **Truly**: An alternative job-hunting platform built with Vue.js as part of the SOEN 341 course. [View Repository](https://github.com/KA-devl/Truly)
+## Stack
 
-## GitHub Stats
+**Languages** - C#, TypeScript, JavaScript, Python, Java, SQL
+
+**Frameworks** - React, .NET, ASP.NET MVC, Vue.js, Spring Boot, FastAPI, scikit-learn, pandas
+
+**Cloud & Tools** - Azure, Docker, GitHub Actions, Netlify, Render, Firebase
+
+---
+
+## Projects
+
+| Project | Description | Links |
+|---|---|---|
+| **EPL Match Predictor** | Self-retraining MLOps pipeline serving live Premier League predictions. 45.3% accuracy on a held-out 2025-26 season. Auto-retrains twice weekly via GitHub Actions. | [GitHub](https://github.com/zaheerqur/epl-predictor) · [Live](https://ml-epl-prediction.netlify.app) |
+| **Emotion Recognition App** | 3-layer CNN trained on 35,000+ FER2013 images, exported to ONNX for a 90% runtime reduction. Live on Netlify. | [GitHub](https://github.com/zaheerqur/COMP472_Emotion_Recognition) · [Live](https://comp-472-cnn.netlify.app) |
+| **CondoConnect** | Full-stack condo management platform with multi-role RBAC, facility reservations, and financial reporting. 52-file Jest / RTL test suite. | [GitHub](https://github.com/zaheerqur/Mini-Capstone) |
+| **Truly** | Career services platform with role-based access for employers, candidates, and admins. Separate CI/CD pipelines via GitHub Actions. | [GitHub](https://github.com/zaheerqur/Truly) |
+
+---
+
 ![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaheerqur&show_icons=true&theme=tokyonight)
