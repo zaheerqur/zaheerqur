@@ -4,16 +4,6 @@ Software Engineering grad from Concordia. Currently building production systems 
 
 ---
 
-## Stack
-
-**Languages** - C#, TypeScript, JavaScript, Python, Java, SQL
-
-**Frameworks** - React, .NET, ASP.NET MVC, Vue.js, Spring Boot, FastAPI, scikit-learn, pandas
-
-**Cloud & Tools** - Azure, Docker, GitHub Actions, Netlify, Render, Firebase
-
----
-
 ## Projects
 
 | Project | Description | Links |
