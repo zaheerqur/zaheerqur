@@ -48,7 +48,7 @@ Software Engineering grad from Concordia. Currently building production systems 
 
 **🗽 NYC Taxi Analytics Platform**
 
-Real-time pipeline streaming 9M trip records through Kafka into DuckDB. dbt models feed a FastAPI fare predictor and React dashboard. Airflow orchestrates the full pipeline.
+Event-driven pipeline ingesting 9.5M NYC taxi trip records through Kafka into DuckDB. dbt models feed a FastAPI fare predictor and React dashboard. Airflow orchestrates the full pipeline.
 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
