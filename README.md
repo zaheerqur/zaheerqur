@@ -64,7 +64,7 @@ Event-driven pipeline ingesting 9.5M NYC taxi trip records through Kafka into Du
 
 **⚽ EPL Match Predictor**
 
-Self-retraining MLOps pipeline serving live Premier League predictions. 45.3% accuracy on a fully held-out 2025–26 season. Auto-retrains twice weekly via GitHub Actions.
+Self-sustaining MLOps pipeline serving live Premier League predictions. 45.3% accuracy on a fully held-out 2025–26 season. Auto-retrains twice weekly via GitHub Actions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
