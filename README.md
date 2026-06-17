@@ -57,7 +57,7 @@ Real-time pipeline streaming 9M trip records through Kafka into DuckDB. dbt mode
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[GitHub →](https://github.com/zaheerqur/nyc-taxi-platform)
+[GitHub →](https://github.com/zaheerqur/nyc-taxi-platform) · [Live →](https://nyc-taxi-dashboard.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
