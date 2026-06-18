@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a3d55,100:00b4d8&height=160&text=Zaheer%20Quraishi&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%C2%B7%20Data%20Engineer&descSize=16&descAlignY=68&descColor=a0c4d8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1b4332,100:2d6a4f&height=160&text=Zaheer%20Quraishi&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%C2%B7%20Data%20Engineer&descSize=16&descAlignY=68&descColor=a8d5b5" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=00B4D8&center=true&vCenter=true&width=480&lines=Building+production+systems+%40+MHI+RJ+Aviation;Shipping+ML+%26+data+engineering+projects;Open+to+opportunities+across+Canada)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=52b788&center=true&vCenter=true&width=480&lines=Building+production+systems+%40+MHI+RJ+Aviation;Shipping+ML+%26+data+engineering+projects;Open+to+opportunities+across+Canada)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00b4d8?style=flat-square&logo=netlify&logoColor=white)](https://zaheerq-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2d6a4f?style=flat-square&logo=netlify&logoColor=white)](https://zaheerq-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaheer-quraishi)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zaheerqur1811@gmail.com)
 
@@ -114,7 +114,7 @@ Full-stack condo management platform with multi-role RBAC, facility reservations
 
 <div align="center">
 
-![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaheerqur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheerqur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8)
+![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaheerqur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52b788&icon_color=40916c)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheerqur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52b788)
 
 </div>
